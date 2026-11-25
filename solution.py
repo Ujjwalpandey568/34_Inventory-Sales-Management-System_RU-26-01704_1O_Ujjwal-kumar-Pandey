@@ -231,7 +231,7 @@ def sales_report():
 def main():
     setup_files()
     while True:
-        print("\n1. Add item")
+        print("1. Add item")
         print("2. Sell")
         print("3. Update")
         print("4. Delete")
